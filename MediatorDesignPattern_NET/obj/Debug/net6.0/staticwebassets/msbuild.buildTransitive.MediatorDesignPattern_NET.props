@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MediatorDesignPattern_NET.props" />
+</Project>
